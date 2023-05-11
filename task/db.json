@@ -11,6 +11,12 @@
       "text": "a third thing",
       "day": "feb 18th at 1:30",
       "reminder": true
+    },
+    {
+      "text": "test",
+      "day": "a date",
+      "reminder": false,
+      "id": 4
     }
   ]
 }
